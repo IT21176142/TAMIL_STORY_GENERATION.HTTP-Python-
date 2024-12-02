@@ -1,0 +1,5 @@
+HOST: 127.0.0.1
+PORT: 3000
+OPEN_AI_KEY:
+FINE_TUNE_JOB_ID: ft:gpt-3.5-turbo-1106:personal::AYaBgUIZ
+BASE_MODEL_VERSION: gpt-3.5-turbo-1106
